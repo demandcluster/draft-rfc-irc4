@@ -1,0 +1,33 @@
+syntax: glob
+
+# Project ignores
+# none
+
+# File ignores
+*.log
+*.bak
+*.zip
+*.tar.gz
+
+# Ignore some eclipse files
+.settings
+
+# Ignore visual studio files
+.vs/
+
+# Ignore intellij files
+*.iml
+.idea
+
+# Ignore netbeans directory
+nbproject
+
+# Ignore mac finder files
+.DS_Store
+
+# Ignore windows files.
+Thumbs.db
+Desktop.ini
+
+# Ignore kde dolphin files
+.directory
