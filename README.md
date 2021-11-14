@@ -162,7 +162,7 @@ The chat client now can display the diwali paths per user.
 <00:00:00> |˧˥˩⁰ 　　　　　　　　　　　　　　　OK  
 
 
-## EWT₅D⁴ Encoding
+## EW₂T5D⁴ = Dīpāvalī Routing
 
 Within a matrix the relative directions follow the stable axis (xyzt) of infinity and the absolute forms lines to cross reality.
 
